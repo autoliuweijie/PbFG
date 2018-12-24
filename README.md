@@ -1,2 +1,3 @@
 # PbFG
-Source code of the PbFG paper.
+
+The source code will be public, once the paper is published.
