@@ -1,3 +1,3 @@
 # PbFG
 
-The source code will be public soon.
+The source code of PbFG paper.
